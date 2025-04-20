@@ -34,16 +34,6 @@ The goal of this app is to demonstrate the integration of Firebase with Flutter,
 
 ---
 
-## 🌟 Features
-
-- 📱 Cross-platform support (Android & iOS)
-- 🧭 Smooth navigation between screens
-- 🎨 Modern UI with Flutter widgets
-- ⚡ High performance and fast build times
-- 📂 Clean project structure for scalability
-
----
-
 ## 📸 Screenshots
 
 ### Login Screen
