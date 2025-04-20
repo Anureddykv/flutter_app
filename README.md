@@ -22,10 +22,24 @@ This Flutter app is designed to demonstrate key aspects of cross-platform mobile
 
 ## 📸 Screenshots
 
-*(Make sure you've added your images to `assets/images/` folder and committed them)*
+### Login Screen
 
-<img src="assets/images/screenshot1.png" width="250">
-<img src="assets/images/screenshot2.png" width="250">
+This is the **Login Screen** where users can sign in to their account. It features basic authentication inputs such as username and password.
+
+<img src="https://github.com/Anureddykv/flutter_app/blob/main/lib/Screenshot_20250420_160958.jpg?raw=true" width="250">
+
+### Home Screen
+
+This is the **Home Screen**, which users see after logging in. It displays key content and allows navigation to other sections of the app.
+
+<img src="https://github.com/Anureddykv/flutter_app/blob/main/lib/Screenshot_20250420_161109.jpg?raw=true" width="250">
+
+### Chart Screen
+
+This is the **Chart Screen**, where users can view visual data representations like graphs and charts. It may feature bar charts, pie charts, or other graphical representations to showcase key information.
+
+<img src="https://github.com/Anureddykv/flutter_app/blob/main/lib/Screenshot_20250420_161114.jpg?raw=true" width="250">
+
 
 ---
 
