@@ -1,12 +1,36 @@
-# 📱 Flutter App
+# 📱 Flutter App - Mobile Developer Assignment
 
-A beautiful, responsive Flutter application built with Dart. This project showcases the use of core Flutter components, clean UI design, and smooth navigation. It is a great starting point for mobile app development using Flutter.
+This Flutter-based Android app is designed for a **Mobile Developer** role at **YelloSKYE**. The app includes features like **Firebase Authentication**, **Project Management**, **Media Handling**, **Map Integration**, and **Data Visualization**.
 
 ---
 
 ## 📝 Project Description
 
-This Flutter app is designed to demonstrate key aspects of cross-platform mobile app development. It features a clean interface, multiple screens, and basic state management. Whether you're a beginner or looking for a solid foundation to build upon, this app is a great place to start.
+The goal of this app is to demonstrate the integration of Firebase with Flutter, allowing users to authenticate, manage projects, upload media (images and videos), view media, and visualize data with charts. The app is user-friendly and designed with smooth navigation.
+
+---
+
+## 🌟 Features
+
+- **User Authentication**: 
+  - Email/password login/signup using Firebase Authentication.
+  - Forgot password functionality and persistent login state.
+  
+- **Project Management**:
+  - Search and list projects.
+  - View project details and manage media (images/videos).
+  
+- **Media Handling**:
+  - Upload images and videos to Firebase Storage.
+  - View media in the app.
+  - Download/save media to the device.
+
+- **Map Integration**:
+  - Display project locations on a map.
+  - View project details by clicking on map markers.
+  
+- **Data Visualization**:
+  - Display a sample line chart showing project data (e.g., completion over time).
 
 ---
 
