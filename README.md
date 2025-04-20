@@ -31,7 +31,7 @@ This Flutter app is designed to demonstrate key aspects of cross-platform mobile
 
 ## 📦 Download APK
 
-> 👉 [Download APK](https://github.com/Anureddykv/flutter_app/releases)  
+> 👉 [Download APK](https://github.com/Anureddykv/flutter_app/blob/main/build/app/outputs/flutter-apk/app-release.apk?raw=true)
 > *(Or upload your APK to Google Drive or GitHub Releases and paste the link here)*
 
 ---
